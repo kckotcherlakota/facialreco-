@@ -82,7 +82,7 @@ numexpr==2.6.5
 numpy==1.16.3
 oauthlib==3.0.1
 olefile==0.46
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.2.0.32
 opencv-python==3.4.5.20
 openpyxl==2.4.9
 pandas==0.24.1
